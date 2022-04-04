@@ -20,7 +20,7 @@ O objetivo deste projeto foi colocar em prática técnicas, conceitos e tecnolog
 
 ### ⚙️ Tecnologias:
 - HTML
-- SASS
+- SCSS
 - TypeScript
 - React
 - Firebase
